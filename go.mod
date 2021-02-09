@@ -1,3 +1,3 @@
-module github.com/efarrer/iothrottler
+module github.com/emptyhua/iothrottler
 
-go 1.12
+go 1.15
